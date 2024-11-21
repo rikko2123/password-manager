@@ -1,0 +1,28 @@
+{
+    "utenti": [
+        {
+            "nikname": "rikko",
+            "password": "12345"
+        },
+        {
+            "nikname": "rikko21",
+            "password": "12345"
+        },
+        {
+            "nikname": "rikko2123",
+            "password": "21"
+        },
+        {
+            "nikname": "rikko2456",
+            "password": "e"
+        },
+        {
+            "nikname": "riccardo",
+            "password": "123456"
+        },
+        {
+            "nikname": "brun",
+            "password": "123"
+        }
+    ]
+}
